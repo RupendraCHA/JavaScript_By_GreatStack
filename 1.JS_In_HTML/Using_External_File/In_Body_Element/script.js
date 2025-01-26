@@ -1,0 +1,1 @@
+alert("We can also write Javascript in Body Element with External Files");
